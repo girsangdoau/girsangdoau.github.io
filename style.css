@@ -1,0 +1,115 @@
+.profil{
+	position:absolute;
+	border: 3px solid blue;
+	width: 600px;
+	height: 600px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 0px;
+	background-color: #228a73;
+}
+.dweb{
+	position:absolute;
+	border: 3px solid blue;
+	width: 600px;
+	height: 600px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 650px;
+	margin-top: 20px;
+	background-color: maroon;
+}
+.profil table{
+	position: absolute;
+	width: 120px;
+	height: 110px;
+
+}
+.tbl{
+	position:absolute;
+	border: 3px solid blue;
+	width: 600px;
+	height: 600px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 0px;
+	margin-top: 670px;
+	background-color: #e41848;
+}
+.mdbox{
+	position:absolute;
+	border: 3px solid blue;
+	width: 600px;
+	height: 600px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 650px;
+	margin-top: 670px;
+	background-color: #43dd60;
+}
+.mdbox h2{
+	position:absolute;
+	border: 3px solid blue;
+	width: 40px;
+	height: 40px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 10px;
+	margin-top: 10px;
+	background-color: red;	
+}
+.mdbox h3{
+	position:absolute;
+	border: 3px solid blue;
+	width: 40px;
+	height: 40px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 90px;
+	margin-top: 10px;
+	background-color: yellow;
+}
+.mdbox h4{
+	position:absolute;
+	border: 3px solid blue;
+	width: 40px;
+	height: 40px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 10px;
+	margin-top: 90px;
+	background-color: maroon;	
+}
+.mdbox h5{
+	position:absolute;
+	border: 3px solid blue;
+	width: 40px;
+	height: 40px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 90px;
+	margin-top: 90px;
+	background-color: lightblue;
+}
+.dfoto{
+	position:absolute;
+	border: 3px solid blue;
+	width: 600px;
+	height: 600px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 650px;
+	margin-top: 1320px;
+	background-color: yellow;
+}
+.dvideo{
+	position:absolute;
+	border: 3px solid blue;
+	width: 600px;
+	height: 600px;
+	padding: 15px;
+	margin: 20px;
+	margin-left: 0px;
+	margin-top: 1320px;
+	background-color: cyan;
+}

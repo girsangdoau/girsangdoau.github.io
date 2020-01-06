@@ -1,0 +1,34 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-decoration: none;
+	background: #914955;
+	text-decoration: bold;
+}
+#menu li{
+	list-style: none;
+	display: inline-block;
+}
+#menu li a{
+	text-decoration: none;
+	position: relative;
+	font-family: sans-serif;
+	display: block;
+	margin-left: 25px;
+	padding: 25px 5px;
+	text-transform: uppercase;
+	color: yellow;
+}
+#menu li ul{
+	display: none;
+}
+#menu li:hover ul{
+	margin:0px;
+	display: block;
+	position: fixed;
+	list-style: none;
+}
+#menu li ul li a{
+	color: cyan;
+}
